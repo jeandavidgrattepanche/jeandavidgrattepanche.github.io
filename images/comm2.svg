@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 92 92" style="enable-background:new 0 0 92 92;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
-</style>
-<g>
-	<path class="st0" d="M2.1-1.3h90.5c1,0,1.8,0.8,1.8,1.8v6.2c0,1-0.8,1.8-1.8,1.8h-1.3v47.1c0,0.7-0.3,1.4-0.8,1.9l0,0
+<svg width="96px" height="96px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+   <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="communication" filter="url(#filter-1)" transform="translate(4.000000, 2.000000)" fill="#FFFFFF">
+            <g id="Page-1">
+ 		<g id="noun_30745_cc">
+			<path id="Shape" class="st0" d="M2.1-1.3h90.5c1,0,1.8,0.8,1.8,1.8v6.2c0,1-0.8,1.8-1.8,1.8h-1.3v47.1c0,0.7-0.3,1.4-0.8,1.9l0,0
 		c-0.5,0.5-1.2,0.8-1.9,0.8H70.1v3.5h-3.8v5.5c-1.1-1.9-2.5-3.4-4.1-4.4c-1.9-1.2-3.9-1.8-5.9-1.8c-2,0-4.1,0.6-5.9,1.9
 		c-1.9,1.3-3.7,3.4-4.9,6.2h-6.7c-0.2-0.1-0.2-0.1-0.4-0.2c-1.2-0.4-2.3-0.6-3.4-0.6c-1.1,0-2.3,0.2-3.4,0.6
 		c-0.2,0.1-0.2,0.1-0.4,0.2h-2.5v-7.3h-3.8v-3.5H6c-0.7,0-1.4-0.3-1.9-0.8c-0.1-0.1-0.1-0.1-0.2-0.2c-0.4-0.5-0.6-1.1-0.6-1.7V8.4
@@ -22,5 +32,8 @@
 		c-0.4,0-0.7-0.3-0.7-0.8v-1.9c0-1.4,1.2-2.6,2.6-2.6h0.7c1.4,0,2.6,1.2,2.6,2.6v1.9c0,0.4-0.3,0.8-0.7,0.8h-0.8v4.6h16.2
 		c0.7,0,1.2,0.5,1.2,1.2V54c0,0.4-0.2,0.7-0.5,0.9h15.1V8.7H6.6v46.3h15.1c-0.2-0.2-0.4-0.5-0.4-0.9v-7.4
 		C21.2,45.9,21.8,45.3,22.5,45.3L22.5,45.3z"/>
+			</g>
+		</g>
+	</g>
 </g>
 </svg>
